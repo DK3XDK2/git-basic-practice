@@ -1,68 +1,8 @@
-﻿* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+﻿body {
+    background-color: hotpink;
+    color: red;
+    font-size: 50px;
 }
-
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f2f5;
-    color: #2d3748;
-    line-height: 1.6;
-}
-
-.header {
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-    color: #ffffff;
-    padding: 40px 20px;
-    text-align: center;
-    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
-}
-
-.container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
-
 .intro-card {
-    background: #ffffff;
-    border-radius: 12px;
-    padding: 30px;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-    border-left: 6px solid #2a5298;
-}
-
-.intro-card h2 {
-    color: #1a202c;
-    margin-bottom: 16px;
-    font-size: 1.8rem;
-}
-
-.intro-card p {
-    margin-bottom: 12px;
-    font-size: 1.05rem;
-    color: #4a5568;
-}
-
-.skills {
-    display: flex;
-    gap: 10px;
-    margin-top: 20px;
-    flex-wrap: wrap;
-}
-
-.badge {
-    background-color: #e2e8f0;
-    color: #2b6cb0;
-    padding: 6px 14px;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 600;
-}
-
-.footer {
-    text-align: center;
-    padding: 30px;
-    color: #a0aec0;
+    display: none;
 }
