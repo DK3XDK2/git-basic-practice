@@ -1,0 +1,4 @@
+Thong tin tac gia:
+- Ho va ten: Vu Quang Huy
+- Mon hoc: Thuc hanh Git co ban
+- Muc tieu: Nam vung cac thao tac clone, push, pull va lam viec voi remote repository.
