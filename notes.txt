@@ -1,0 +1,6 @@
+Ghi chú học tập Git:
+- Working Directory: Thư mục làm việc thực tế trên máy tính
+- Staging Area (Index): Vùng chuẩn bị các thay đổi trước khi commit
+- Repository: Nơi lưu trữ lịch sử và các commit chính thức
+- git commit: Lưu ảnh chụp trạng thái (snapshot) của Staging Area vào Repo
+- git diff: So sánh sự khác biệt giữa các phiên bản hoặc vùng làm việc
